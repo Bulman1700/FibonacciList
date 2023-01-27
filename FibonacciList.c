@@ -2,7 +2,8 @@
 
 // FibonacciList.c
 // ===============
-// Finds the Nth Fibonacci number in O(n) time using linked lists.
+// Finds the Nth Fibonacci number in O(n*k) time using linked lists, 
+// where 'k' is the length of a linked list.
 
 #include <limits.h>
 #include <stdio.h>
