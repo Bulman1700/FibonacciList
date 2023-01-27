@@ -5,6 +5,6 @@ FibonacciList linked lists can be stored in any base system (e.g., base 2), and 
 
 Check the FibonacciList.h header file for a list of supported functions.
 
-There is also a Main.c program that contains a main() function. This file demonstrated the fib() function. This can be compiled in the terminal like so: 
+There is also a main.c program that contains a main() function. This file demonstrated the fib() function. This can be compiled in the terminal like so: 
         gcc FibonacciList.c Main.c
         ./a.out
